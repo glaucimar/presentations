@@ -3,7 +3,7 @@
 
 ## Available slides
 
-1. ___BDDs - e eu com isso?___ - keynote on [Web.br 2016 Conferência Web W3C Brasil](https://conferenciaweb.w3c.br/2016/). Record available [here](https://www.youtube.com/watch?v=xpYe7Nj_gAY)
+1. ___BDDs - e eu com isso?___ - keynote on [Web.br 2016 Conferência Web W3C Brasil](https://conferenciaweb.w3c.br/2016/). Record available [here](https://www.youtube.com/watch?v=xpYe7Nj_gAY).
 
 1. ___Reflexões sobre Inteligência Artificial___ - presented at UNIP on the technology week in 2018.
  
